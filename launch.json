@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - MicroservicioApplication",
+            "request": "launch",
+            "mainClass": "com.horarios.construhorarios.Construhorariosapplication",
+            "projectName": "construhorarios"
+        }
+    ]
+}
